@@ -1,5 +1,4 @@
-('C:\\Users\\Administrator\\Desktop\\python '
- 'projects\\capslock\\build\\capslock\\PYZ-00.pyz',
+('E:\\python projects\\Caps Lock Monitor Program\\build\\capslock\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\__future__.py',
    'PYMODULE'),
